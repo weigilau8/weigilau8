@@ -3,7 +3,7 @@
 <meta name="keyword" content="Luigi Lauron, xCodes, Luigi Lauron Github, Luigi Lauroon repo, Github, NIT xCodes Github">
 
 <h1 align="center">Hey there, I'm Luigi Lauron 😎</h1>
-<h3 align="center">A Full-Stack Web Developer from the Philippines.</h3>
+<h3 align="center">A Full-Stack Web Developer from the Philippines and now im in Toronto.</h3>
 
 ## 💡 ABOUT ME
 
