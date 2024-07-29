@@ -87,4 +87,4 @@ Yo, I'm Luigi Lauron, the powerhouse behind WordPress and Laravel php solutions 
 
 [<img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:weigilauron@gmail.com)
 [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luigilauron)
-[<img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://https://wiidev.surge.sh/)
+[<img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://wiidev.surge.sh/)
